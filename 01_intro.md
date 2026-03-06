@@ -50,6 +50,10 @@ It's an indie dev portal for sharing the assets in pay-as-much-you-want model. I
 
 It contains great photoscanned textures. I mostly use it for sky textures, as all of the assets there are products of manual photo scanning and using such detailed models in VR applications could lead to making your users vomit violently after a minute of playing a game running at 5 frames per second. Still it's a great resource for skyboxes and textures if you need some high quality ones (or wish to convert them to PSX-style ones).
 
+### Licensing
+
+While the sites mentioned above contain a lot of great assets, you need to take the licensing into account. If you use CC-0 licensed assets, there is nothing to worry about but when the license requires author attribution, you're supposed to do it - even if it's a project made to pass this class.
+
 ## Using remote desktop
 
 I'm aware that some of you might have more powerful desktops at home that would run Unity smoothly but your laptops migh lack the computing power. I've tried some solutions and for now [Parsec](https://parsec.app/) proved to be the best way. It offers really low latency. The downside is that you need to set up 2FA method - I prefer OTP (available through FFreeOTP on Android). The site will guide you with the setup. In some time I'll update you on that, because I need to check how building for ADB-connected devices works from remote desktop.
