@@ -133,3 +133,13 @@ But this is not all. The game has interaction system implemented for some of the
 4. Implement the Interaction Timer (20%)
 5. Implement the Interaction Notifications (20%)
 6. Implement the Death Screen (20%)
+
+Please submit your project as a screen recording showcasing your implementation.
+
+## Version control
+
+For this assignment you'll need to clone the repository and import the project to your Unity Hub. In the `Projects` tab of Unity Hub, click on `Add` dropdown and then `Add project from disk` and select the folder where you cloned the repository. Unity will automatically fetch the required packages and you'll be able to work on the project. After loading the project, you'll need to go into `Scenes` folder and open the `SampleScene`. There also might be a need to regenerate the scene lightning data by going to `Window > Rendering > Lighting` and clicking on `Generate Lighting` button.
+
+Further into this course, you'll be asked to create your own repositories and submit your projects as a link to your repository. The process of creating them is quite simple as long as your assets are not too large - if they are, you'll need to use Git LFS (Large File Storage). This project didn't need this, but it's good to be aware of it.
+
+When you want to add a repository to the project, you can navigate to the root folder of the project in command line and run `git init` command. The crucial step here is to use well designed `.gitignore` file - I've used example from [GitHub](https://github.com/github/gitignore/blob/main/Unity.gitignore). Then you can add the remote repository using `git remote add origin <repository_url>` command. Finally, you can push the project to the repository using `git push -u origin main` command.
