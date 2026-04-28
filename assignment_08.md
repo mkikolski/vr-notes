@@ -1,8 +1,8 @@
 # Lab 8 & 9: Mini project
 
----
-
 MSc. Mikołaj Kikolski, MSc. Damian Pawłowski
+
+---
 
 This assignment is a mini-project that combines skills and techniques from all previous labs. Your goal is to create a simple, but engaging game that incorporates physics, UI, and 3D scene management.
 
