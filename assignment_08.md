@@ -19,5 +19,5 @@ To avoid limiting your creativity, you're eligible for additional points for sur
 ## Timeline
 
 - **(28.04)** - Get the project topic/idea approved by the TAs (during classes).
-- **(05.05)** - Submit a specification with proposed game systems and design as a PDF. The file will be used to evaluate your project.
+- **(04.05)** - Submit a specification with proposed game systems and design as a PDF. The file will be used to evaluate your project.
 - **(15.05)** - Submit the final project alongside a short report describing the project and the screenshots from your game.
