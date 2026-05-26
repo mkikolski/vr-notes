@@ -9,7 +9,7 @@ In this lab there are two paths to follow, depending on whether you're working o
 1. Create a new 3D (URP) Unity project.
 2. Install XR Plugin Management and enable OpenXR for your target platform.
 3. Add an interaction profile (for now for simulator it's not needed, but I'll leave the note here for reference if you wanted to use a real headset - it usually is provided by the hardware manufacturer).
-4. Install the XR Interaction Toolkit and import the Starter Assets sample.
+4. Install the XR Interaction Toolkit and import the Starter Assets and XR Interaction Simulator samples.
 5. Replace the default Main Camera with the **XR Origin (XR Rig)** prefab.
 6. Set the Tracking Origin Mode to **Floor** and verify the camera is at the correct height.
 7. Add a ground plane and several simple objects (cube, sphere, table) to the scene.
